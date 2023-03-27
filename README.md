@@ -42,6 +42,7 @@ You can build docker container image including `personium-core` based on Tomcat 
 docker build . -t personium-core
 ```
 
+
 After building, you can launch personium-core in docker container.
 
 ```bash
